@@ -4634,19 +4634,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\atowc\\.nuget\\packages\\": {}
+    "C:\\Users\\atom\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\atowc\\source\\repos\\WebApiLessons\\WebApiLessons.csproj",
+      "projectUniqueName": "C:\\Git\\web_api_swagger\\WebApiLessons.csproj",
       "projectName": "WebApiLessons",
-      "projectPath": "C:\\Users\\atowc\\source\\repos\\WebApiLessons\\WebApiLessons.csproj",
-      "packagesPath": "C:\\Users\\atowc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\atowc\\source\\repos\\WebApiLessons\\obj\\",
+      "projectPath": "C:\\Git\\web_api_swagger\\WebApiLessons.csproj",
+      "packagesPath": "C:\\Users\\atom\\.nuget\\packages\\",
+      "outputPath": "C:\\Git\\web_api_swagger\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\atowc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\atom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
