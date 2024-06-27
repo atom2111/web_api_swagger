@@ -4,10 +4,10 @@
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public string Descriptions { get; set; }
         public decimal Price { get; set; }
-
-        public virtual ProductGroup ProductGroup { get; set; }
-        public virtual ICollection<Storage> Storages { get; set; }
+        public string Description { get; set; }
+        public int? ProductGroupId { get; set; }
+        public List<Storage> Storages { get; set; }
+        public ProductGroup? ProductGroup { get; set; }
     }
 }

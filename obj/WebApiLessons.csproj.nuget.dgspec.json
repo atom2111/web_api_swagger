@@ -1,25 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Git\\web_api_swagger\\WebApiLessons.csproj": {}
+    "C:\\git\\web_api_swagger\\WebApiLessons.csproj": {}
   },
   "projects": {
-    "C:\\Git\\web_api_swagger\\WebApiLessons.csproj": {
+    "C:\\git\\web_api_swagger\\WebApiLessons.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\web_api_swagger\\WebApiLessons.csproj",
+        "projectUniqueName": "C:\\git\\web_api_swagger\\WebApiLessons.csproj",
         "projectName": "WebApiLessons",
-        "projectPath": "C:\\Git\\web_api_swagger\\WebApiLessons.csproj",
-        "packagesPath": "C:\\Users\\atom\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\web_api_swagger\\obj\\",
+        "projectPath": "C:\\git\\web_api_swagger\\WebApiLessons.csproj",
+        "packagesPath": "C:\\Users\\atowc\\.nuget\\packages\\",
+        "outputPath": "C:\\git\\web_api_swagger\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\atom\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\atowc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -51,6 +46,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.6, )"
@@ -93,7 +96,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

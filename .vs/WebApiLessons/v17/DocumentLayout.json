@@ -1,34 +1,82 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Git\\web_api_swagger\\",
+  "WorkspaceRootPath": "C:\\git\\web_api_swagger\\",
   "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|c:\\git\\web_api_swagger\\controllers\\productgroupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|solutionrelative:controllers\\productgroupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
     {
       "AbsoluteMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|c:\\git\\web_api_swagger\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|c:\\git\\web_api_swagger\\models\\updatepriceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|solutionrelative:models\\updatepriceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|c:\\git\\web_api_swagger\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|solutionrelative:repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|c:\\git\\web_api_swagger\\models\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|solutionrelative:models\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|c:\\git\\web_api_swagger\\repository\\productgrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|solutionrelative:repository\\productgrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|c:\\git\\web_api_swagger\\models\\productgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|solutionrelative:models\\productgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|c:\\git\\web_api_swagger\\abstraction\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|solutionrelative:abstraction\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|c:\\git\\web_api_swagger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|c:\\git\\web_api_swagger\\data\\storagecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|solutionrelative:data\\storagecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|c:\\git\\web_api_swagger\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|c:\\git\\web_api_swagger\\models\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|solutionrelative:models\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|c:\\git\\web_api_swagger\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|c:\\git\\web_api_swagger\\models\\deleteresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|solutionrelative:models\\deleteresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|c:\\git\\web_api_swagger\\models\\productgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|solutionrelative:models\\productgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|c:\\git\\web_api_swagger\\data\\storagecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|solutionrelative:data\\storagecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|c:\\git\\web_api_swagger\\mapper\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|solutionrelative:mapper\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|c:\\git\\web_api_swagger\\dto\\productgroupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|solutionrelative:dto\\productgroupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|c:\\git\\web_api_swagger\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|solutionrelative:dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|c:\\git\\web_api_swagger\\abstraction\\iproductgrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|solutionrelative:abstraction\\iproductgrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|c:\\git\\web_api_swagger\\webapilessons.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|solutionrelative:webapilessons.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|c:\\git\\web_api_swagger\\models\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|solutionrelative:models\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|c:\\git\\web_api_swagger\\models\\updatepriceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|solutionrelative:models\\updatepriceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|c:\\git\\web_api_swagger\\models\\deleteresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95717BE5-3256-49D6-B636-EB44113AB0A8}|WebApiLessons.csproj|solutionrelative:models\\deleteresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,98 +86,251 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductGroup.cs",
-              "DocumentMoniker": "C:\\Git\\web_api_swagger\\Models\\ProductGroup.cs",
-              "RelativeDocumentMoniker": "Models\\ProductGroup.cs",
-              "ToolTip": "C:\\Git\\web_api_swagger\\Models\\ProductGroup.cs",
-              "RelativeToolTip": "Models\\ProductGroup.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\git\\web_api_swagger\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\git\\web_api_swagger\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Repository\\ProductRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAgwCQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T11:44:44.631Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Git\\web_api_swagger\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "C:\\Git\\web_api_swagger\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T11:44:33.774Z",
+              "WhenOpened": "2024-06-26T16:32:54.617Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UpdatePriceResponse.cs",
-              "DocumentMoniker": "C:\\Git\\web_api_swagger\\Models\\UpdatePriceResponse.cs",
-              "RelativeDocumentMoniker": "Models\\UpdatePriceResponse.cs",
-              "ToolTip": "C:\\Git\\web_api_swagger\\Models\\UpdatePriceResponse.cs",
-              "RelativeToolTip": "Models\\UpdatePriceResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T11:42:30.272Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DeleteResponse.cs",
-              "DocumentMoniker": "C:\\Git\\web_api_swagger\\Models\\DeleteResponse.cs",
-              "RelativeDocumentMoniker": "Models\\DeleteResponse.cs",
-              "ToolTip": "C:\\Git\\web_api_swagger\\Models\\DeleteResponse.cs",
-              "RelativeToolTip": "Models\\DeleteResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T11:31:57.469Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductResponse.cs",
-              "DocumentMoniker": "C:\\Git\\web_api_swagger\\Models\\ProductResponse.cs",
-              "RelativeDocumentMoniker": "Models\\ProductResponse.cs",
-              "ToolTip": "C:\\Git\\web_api_swagger\\Models\\ProductResponse.cs",
-              "RelativeToolTip": "Models\\ProductResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T08:33:30.259Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Git\\web_api_swagger\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "C:\\git\\web_api_swagger\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Git\\web_api_swagger\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\git\\web_api_swagger\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAAC8AAABIAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-26T06:37:21.519Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\git\\web_api_swagger\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\git\\web_api_swagger\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-26T16:59:36.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\git\\web_api_swagger\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\git\\web_api_swagger\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:55:06.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductGroupController.cs",
+              "DocumentMoniker": "C:\\git\\web_api_swagger\\Controllers\\ProductGroupController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductGroupController.cs",
+              "ToolTip": "C:\\git\\web_api_swagger\\Controllers\\ProductGroupController.cs",
+              "RelativeToolTip": "Controllers\\ProductGroupController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:52:38.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\git\\web_api_swagger\\Abstraction\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Abstraction\\IProductRepository.cs",
+              "ToolTip": "C:\\git\\web_api_swagger\\Abstraction\\IProductRepository.cs",
+              "RelativeToolTip": "Abstraction\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:34:05.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
               "Title": "StorageContext.cs",
-              "DocumentMoniker": "C:\\Git\\web_api_swagger\\Data\\StorageContext.cs",
+              "DocumentMoniker": "C:\\git\\web_api_swagger\\Data\\StorageContext.cs",
               "RelativeDocumentMoniker": "Data\\StorageContext.cs",
-              "ToolTip": "C:\\Git\\web_api_swagger\\Data\\StorageContext.cs",
+              "ToolTip": "C:\\git\\web_api_swagger\\Data\\StorageContext.cs",
               "RelativeToolTip": "Data\\StorageContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-26T06:37:29.291Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductGroupRepository.cs",
+              "DocumentMoniker": "C:\\git\\web_api_swagger\\Repository\\ProductGroupRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ProductGroupRepository.cs",
+              "ToolTip": "C:\\git\\web_api_swagger\\Repository\\ProductGroupRepository.cs",
+              "RelativeToolTip": "Repository\\ProductGroupRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwCcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:32:17.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductGroupDto.cs",
+              "DocumentMoniker": "C:\\git\\web_api_swagger\\Dto\\ProductGroupDto.cs",
+              "RelativeDocumentMoniker": "Dto\\ProductGroupDto.cs",
+              "ToolTip": "C:\\git\\web_api_swagger\\Dto\\ProductGroupDto.cs",
+              "RelativeToolTip": "Dto\\ProductGroupDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:29:31.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MapperProfile.cs",
+              "DocumentMoniker": "C:\\git\\web_api_swagger\\Mapper\\MapperProfile.cs",
+              "RelativeDocumentMoniker": "Mapper\\MapperProfile.cs",
+              "ToolTip": "C:\\git\\web_api_swagger\\Mapper\\MapperProfile.cs",
+              "RelativeToolTip": "Mapper\\MapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:31:04.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductGroup.cs",
+              "DocumentMoniker": "C:\\git\\web_api_swagger\\Models\\ProductGroup.cs",
+              "RelativeDocumentMoniker": "Models\\ProductGroup.cs",
+              "ToolTip": "C:\\git\\web_api_swagger\\Models\\ProductGroup.cs",
+              "RelativeToolTip": "Models\\ProductGroup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T11:44:44.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\git\\web_api_swagger\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\git\\web_api_swagger\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T11:44:33.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Storage.cs",
+              "DocumentMoniker": "C:\\git\\web_api_swagger\\Models\\Storage.cs",
+              "RelativeDocumentMoniker": "Models\\Storage.cs",
+              "ToolTip": "C:\\git\\web_api_swagger\\Models\\Storage.cs",
+              "RelativeToolTip": "Models\\Storage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:26:54.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\git\\web_api_swagger\\Dto\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Dto\\ProductDto.cs",
+              "ToolTip": "C:\\git\\web_api_swagger\\Dto\\ProductDto.cs",
+              "RelativeToolTip": "Dto\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:25:09.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IProductGroupRepository.cs",
+              "DocumentMoniker": "C:\\git\\web_api_swagger\\Abstraction\\IProductGroupRepository.cs",
+              "RelativeDocumentMoniker": "Abstraction\\IProductGroupRepository.cs",
+              "ToolTip": "C:\\git\\web_api_swagger\\Abstraction\\IProductGroupRepository.cs",
+              "RelativeToolTip": "Abstraction\\IProductGroupRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:33:37.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WebApiLessons",
+              "DocumentMoniker": "C:\\git\\web_api_swagger\\WebApiLessons.csproj",
+              "RelativeDocumentMoniker": "WebApiLessons.csproj",
+              "ToolTip": "C:\\git\\web_api_swagger\\WebApiLessons.csproj",
+              "RelativeToolTip": "WebApiLessons.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-26T16:45:03.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductResponse.cs",
+              "DocumentMoniker": "C:\\git\\web_api_swagger\\Models\\ProductResponse.cs",
+              "RelativeDocumentMoniker": "Models\\ProductResponse.cs",
+              "ToolTip": "C:\\git\\web_api_swagger\\Models\\ProductResponse.cs",
+              "RelativeToolTip": "Models\\ProductResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:33:30.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdatePriceResponse.cs",
+              "DocumentMoniker": "C:\\git\\web_api_swagger\\Models\\UpdatePriceResponse.cs",
+              "RelativeDocumentMoniker": "Models\\UpdatePriceResponse.cs",
+              "ToolTip": "C:\\git\\web_api_swagger\\Models\\UpdatePriceResponse.cs",
+              "RelativeToolTip": "Models\\UpdatePriceResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T11:42:30.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DeleteResponse.cs",
+              "DocumentMoniker": "C:\\git\\web_api_swagger\\Models\\DeleteResponse.cs",
+              "RelativeDocumentMoniker": "Models\\DeleteResponse.cs",
+              "ToolTip": "C:\\git\\web_api_swagger\\Models\\DeleteResponse.cs",
+              "RelativeToolTip": "Models\\DeleteResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T11:31:57.469Z"
             }
           ]
         }
